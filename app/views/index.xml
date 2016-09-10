@@ -1,0 +1,6 @@
+<Alloy>
+	<Window layout="vertical">
+		<Button title="x1" onClick="doClickSingleButton"></Button>
+		<Button title="x10" onClick="doClickButton"></Button>
+	</Window>
+</Alloy>
